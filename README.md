@@ -1,2 +1,1 @@
-# HelloWorld
-First Repository
+This is some text.
