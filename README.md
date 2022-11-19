@@ -3,7 +3,7 @@ Opens to an image of gallows and asks the user to guess a letter.
 
 ![Hangman_Start](https://user-images.githubusercontent.com/68180572/202827249-dedaccab-ce76-4027-97a9-9bc1a90af31e.PNG)
 
-If user guesses an incorrect letter, the letter appears under the "missed letters" section and part of the stick figure appears.
+If user guesses an incorrect letter, the letter appears next to the "missed letters" section and part of the stick figure appears.
 
 ![Hangman_Missed](https://user-images.githubusercontent.com/68180572/202827326-ec20ea7c-434d-4782-8ddf-215bb54cd6a5.PNG)
 
